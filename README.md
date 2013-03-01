@@ -24,4 +24,3 @@ Szablon pliku html5:
   <p>ąćęłńóśźż ĄĆĘŁŃÓŚŹŻ</p>
 </body>
 </html>
-ki,images_big,19,978-83-02-08741-7.jpg&imgrefurl=http://merl
