@@ -25,3 +25,5 @@ Szablon pliku html5:
 </body>
 </html>
 [elementarz falsiego](http://wp.pl)
+
+http://www.google.com/imgres?imgurl=http://merlin.pl/Elementarz_Marian-Falski,images_big,19,978-83-02-08741-7.jpg&imgrefurl=http://merl
