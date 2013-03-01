@@ -1,4 +1,4 @@
-# Notati do Techologii Internetowych
+# Notatki do Techologii Internetowych
 > Dzień bez kompa jest dniem straconym
 
 Znaczniki:
