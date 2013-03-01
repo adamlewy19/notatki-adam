@@ -4,7 +4,7 @@
 Znaczniki:
 * p
 * ul,ol
-*  li
+     *li
 *  img
 *  h
 Szablon pliku html5:
