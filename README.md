@@ -1,4 +1,8 @@
-notatki-adam
-============
+# Notati do Techologii Internetowych
 
-notati do przedmiotu technologie internetowe
+Znaczniki:
+* p
+* ul,ol
+*  li
+*  img
+*  h
