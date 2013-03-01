@@ -24,4 +24,4 @@ Szablon pliku html5:
   <p>ąćęłńóśźż ĄĆĘŁŃÓŚŹŻ</p>
 </body>
 </html>
-Prezydent Brone Komorowsi pojechał do Zakpanego i kupił oscypka<br>a potem pojechał do Jrakowa
+[elementarz falsiego](http://wp.pl)
