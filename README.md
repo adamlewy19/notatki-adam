@@ -1,5 +1,5 @@
 # Notati do Techologii Internetowych
->Dzień bez kompa jest dniem straconym>
+> Dzień bez kompa jest dniem straconym
 
 Znaczniki:
 * p
