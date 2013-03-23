@@ -1,4 +1,3 @@
-
 Kod programu liczacego miejsca zerowe trojmianu kwadratowego:
 ```c
 #include <stdio.h>
@@ -39,3 +38,19 @@ int main() {
                      return 0;
                 }                          
 ```
+Kod programu wypisujacego liczby doskonale:
+
+#include <stdio.h>
+int main() {
+    int i, j=0, suma=0;
+    for(i=1;i<=10000;i++) {
+                        suma=0;
+                        for(j=1;j<i;j++)
+                                         if(i%j==0)
+                                         suma=suma+j;
+                                         if(suma==i)                      
+                                         printf("\n%d",suma); 
+                           }
+    getchar();
+    return 0;
+}
