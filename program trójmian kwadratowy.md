@@ -68,16 +68,17 @@ int main () {
     {
                       for(b=a;b<100;b++)
                                        for(c=b;c<100;c++){
-                                       if(a*a+b*b==c*c){
-                                       printf("\nTrojkat nr %d: %d,%d,%d",k,a,b,c);
-                                       k++;
-                                       if(k>20){
-                                       getchar();
-                                       return 0;
-                                       }
-                                       }
-                                       }
-                                       }
-                      return 0;
-                      }
+                                                          if(a*a+b*b==c*c){
+                                                                           printf("\nTrojkat nr %2d: %2d,%2d,%2d.",k,a,b,c);
+                                                                                             k++;
+                                                                                             if(k>20){
+                                                                                             getchar();
+                                                                                             return 0;
+                                                                                                    }
+                                                                           }
+                                                          }
+     }
+return 0;
+}
+
 ```
