@@ -1,7 +1,6 @@
 
-
 Kod programu liczacego miejsca zerowe trojmianu kwadratowego:
-
+```c
 #include <stdio.h>
 #include <math.h>
 int main() {
@@ -39,4 +38,4 @@ int main() {
                      getchar();
                      return 0;
                 }                          
-
+```
