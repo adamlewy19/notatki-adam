@@ -1,3 +1,5 @@
+
+..................
 #include <stdio.h>
 #include <math.h>
 int main() {
@@ -32,6 +34,7 @@ int main() {
                      }
                      }
                      getchar();
+                     .........................................................
                      getchar();
                      return 0;
                 }                          
