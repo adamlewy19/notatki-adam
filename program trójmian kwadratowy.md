@@ -40,6 +40,7 @@ int main() {
 ```
 Kod programu wypisujacego liczby doskonale:
 
+```c
 #include <stdio.h>
 int main() {
     int i, j=0, suma=0;
@@ -54,3 +55,4 @@ int main() {
     getchar();
     return 0;
 }
+```
