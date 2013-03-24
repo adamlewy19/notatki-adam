@@ -31,7 +31,7 @@
   >> y=sin(x);
   >> plot(x,y,'o')  ***przykladowa procedura rysowania funkcji
 * ezplot('x^2+y^2=4') - narysuje nam kolo o promieniu 4
-* clear('zmienna') - usówa zmienna z pamieci
+* clear('zmienna') - usuwa zmienna z pamieci
 * ' - transpozycja w obliczeniach algebry liniowej
 * .* - monożenie wektora i poswstaje wetor. operacje z kropkami licznie element po elemencie. Tak samo można przeprowadzać inne dzialania matemayczne.
    x=[1 2 3 ]
