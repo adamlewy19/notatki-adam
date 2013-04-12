@@ -1,7 +1,7 @@
-Treść zadania 1
-
+### Treść zadania 1
 Napisz funkcję obliczającą pole kuli o podanym promieniu.
 
+```c
 #include <stdio.h>
 #include <math.h>
 
@@ -23,11 +23,11 @@ double pole(double r) {
     p=4*M_PI*r*r;                                                          
     return p;    
 }
-
-Treść zadania 2
-
+```
+### Treść zadania 2
 Napisz funkcję warBezwzgledna zwracajaca wartość bezwzględną z liczby całkowitej.
 
+```c
 #include <stdio.h>
 
 int wartBezwzgledna(int x);
@@ -48,11 +48,12 @@ int wartBezwzgledna(int x) {
     x=-x;
     return x;    
 }
+```
 
-Treść zadania 3
-
+### Treść zadania 3
 Napisz funkcję obliczającą a do potęgi n dla n należącego do N za pomocą pętli.
 
+```c
 #include <stdio.h>
 int main() {
     double a,x=1;
@@ -69,9 +70,11 @@ int main() {
     getchar();
     return 0;
         }
+```
 
 lub jako funkcja
 
+```c
 #include <stdio.h>
 double potegaAn(double a, int n);
 
@@ -96,3 +99,5 @@ double potegaAn(double a, int n) {
 }
     return x;
 }
+```
+
