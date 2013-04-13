@@ -99,5 +99,5 @@ double potegaAn(double a, int n) {
     return x;
 }
 
-```
+```c
 
