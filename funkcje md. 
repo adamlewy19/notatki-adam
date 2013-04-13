@@ -1,3 +1,4 @@
+
 ```
 ### Treść zadania 1
 Napisz funkcję obliczającą pole kuli o podanym promieniu.
@@ -100,5 +101,6 @@ double potegaAn(double a, int n) {
 }
     return x;
 }
+
 ```
 
