@@ -1,13 +1,7 @@
 # Notatki do Techologii Internetowych
 > Dzień bez kompa jest dniem straconym
 
-Znaczniki:
-* p
-* ul,ol
-  *li
-*  img
-*  h
-Szablon pliku html5:
+
 
 ```html
 <!doctype html public "♥♥♥">
