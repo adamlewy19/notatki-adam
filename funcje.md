@@ -1,5 +1,5 @@
 ### Treść zadania 1
-Napisz funkcję obliczającą pole kuli o podanym promieniu.
+Funkcja obliczająca pole kuli o podanym promieniu.
 ```c
 #include <stdio.h>
 #include <math.h>
