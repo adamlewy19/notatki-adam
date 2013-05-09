@@ -1,3 +1,4 @@
+~~~c
 # Technologia internetowa
 ## Język markdown
 
@@ -371,4 +372,4 @@ More
     Terms of Service
     Privacy
     Security
-
+~~~c
