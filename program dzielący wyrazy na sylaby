@@ -1,0 +1,32 @@
+~~~
+ď»ż#include <stdio.h>
+
+#define MAXLINE 1000 /* max rozmiar wiersza */
+
+int getline(char line[], int maxline);
+void copy(char to[], char from[]);
+
+/* wypisz najdĹ‚uĹĽszy wiersz */
+main()
+{
+   int len;  /* dĹ‚. bieĹĽÄ…cego wiersza */
+   int max;  /* poprzednia max dĹ‚ugoĹ›Ä‡ */
+   char line[MAXLINE]; /* bieĹĽÄ…cy wiersz z wejĹ›cia */
+   char longest[MAXLINE]; /* przechowuje max wiersz */
+   
+   printf("\n*** PROGRAM DZIELACY NA SYLABY ***\n\n");
+   printf("Podaj slowo, ktore chcesz podzielic na sylaby.\n\n");
+   printf("Po wprowadzeniu wyrazu nacisnij ENTER.\nAby wyswietlic wynik nacisnij Ctrl+z i potwierdz ENTERem\n\n");
+   printf("Podaj slowo: ");
+
+   max = 0;
+   while ((len = getline(line, MAXLINE)) > 0) {
+         max = len;
+         copy(longest, line);
+   }
+      
+   if(max > 0)  /* znaleziono wiersz */
+      printf("%s", longest);
+   return 0;
+}
+~~~
