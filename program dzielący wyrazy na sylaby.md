@@ -1,3 +1,4 @@
+~~~~c
 ď»ż#include <stdio.h>
 
 #define MAXLINE 1000 /* max rozmiar wiersza */
@@ -80,3 +81,4 @@ void copy(char to[], char from[])
    while ((to[i] = from[i]) != '\0')
       ++i;
 }
+~~~c
