@@ -1,2 +1,2 @@
 # Witam na moim gicie
-> zapraszam do orzystania z zawartości pliów
+> zapraszam do korzystania z zawartości pliów
