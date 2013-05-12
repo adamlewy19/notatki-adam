@@ -9,6 +9,6 @@ Stworzyć i opisać wykres ex. punkty, kóka, linie, opis wykresu
 Zad. 3. 
 Zapisać w matmhematice dziaanie e do potegi x = 10; musial mi wyjsć jakis logarytm
 Życze powodzenia;
-W miom prezekonaniu nie bedzie problemów
+W miom prezekonaniu nie bedzie problemów, moglem korzystać z notatek :)
 Narazie :) 
 ~~~~
