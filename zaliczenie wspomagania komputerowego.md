@@ -1,6 +1,6 @@
 zaliczone
 ~~~
-Oólnie nie jest źle, ale czasem prof. zadaje dzialania, których nie przerabialismy.
+Ogólnie nie jest źle, ale czasem prof. zadaje dzialania, których nie przerabialismy.
 Ja dostaem 2 zad. z matlaba i jedno z tej matmy co byla dzis.
 Zad. 1.
 Musialem stworzyć wektory w matlabie, używajac tylko :, dzielić na pól i takie tam.
